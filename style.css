@@ -19,7 +19,7 @@ h1 {
 }
 
 #origami2{
-  background-color:lightcoral; 
+  background-color:lightcyan; 
 }
 
 .line {
@@ -28,3 +28,6 @@ h1 {
     width: 70px;
     margin: 8px auto;
 }
+
+#reason{
+    background-color:lightgrey;
